@@ -6,3 +6,7 @@ Learning Git and Github!!!
 
 Addedd this in the local repo.
 
+## Local Development
+
+1. Open index.html in your browser.
+
