@@ -1,8 +1,8 @@
-#Demo
+# Demo
 
 Learning Git and Github!!!
 
-##Subheader
+## Subheader
 
 Addedd this in the local repo.
 
